@@ -1,1 +1,2 @@
-oi, eu sou um novo arquivo
+oi, eu sou um novo arquivo.
+Nova coisa no arquivo
